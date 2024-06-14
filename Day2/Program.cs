@@ -10,7 +10,7 @@ namespace Day2
     {
         static void Main(string[] args)
         {
-            //WRETSG
+            Console.WriteLine("Hello C#");
         }
     }
 }
